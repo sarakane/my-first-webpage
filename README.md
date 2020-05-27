@@ -18,7 +18,7 @@ There are no known bugs
 
 ## Support and contact details
 
-Contact me at: sara@thisisnotarealemail.com
+Contact me at: sara@thisisnotarealemail
 
 ## Technologies Used
 
